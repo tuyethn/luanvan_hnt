@@ -2,4 +2,5 @@
 # Type "help", "copyright", "credits" or "license()" for more information.
 print('hello')
 print('No one know me')
+print('khạp khun khạp')
 # hello
